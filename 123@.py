@@ -1,0 +1,5 @@
+a=input("How many meters of length do you have\n?")
+m=input("​How much is the width\n?")
+y=input("​How much is it per meter\n?")
+q=float(a)*float(m)*float(y)
+print(f"the total cost is {q}Egp")
